@@ -1,3 +1,5 @@
+This is Angel's docummentation. I took it because mine was deleted. [link]()
+
 ## ÍNDICE
 
 [clasede binario](#clase-de-binario)
