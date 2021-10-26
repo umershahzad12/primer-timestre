@@ -12,3 +12,4 @@ Ahora voy a reponer lo que necesito a partir de repositorios de otros compañero
 *  Clase de binario
 *  inkscape
 *  mecanografía
+
