@@ -19,3 +19,28 @@ Leon1.png is 16x22 pixels wide
 leon2.png is 160x218
 
 ![](https://raw.githubusercontent.com/umershahzad12/primer-timestre/main/leon2.png)
+
+tipos 
+
+de color 
+
+HSL 
+
+tono /saturacion 
+
+HSL(HUE,SATURATION,LIGHT)
+
+Este sistema mezlla los sguiente 
+
+UN tono color enla rueca cramatica (HUE)
+
+UN canal de nivel de saturacion 
+que va del gris al color (saturacion)
+
+un canal de luminosidadde color (light) 
+
+UN canal de transparenciacafa
+
+CMYK
+
+este sistema mezcla los tres colores primarios substractivos(cyan,magenta,amarillo) y un canal de negro  
