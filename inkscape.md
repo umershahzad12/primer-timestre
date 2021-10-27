@@ -15,5 +15,3 @@ Leon1.png is 16x22 pixels wide
 ![](https://raw.githubusercontent.com/umershahzad12/primer-timestre/main/leon1.png)
 
 ## leon 2.png 
-
-![](/home/auxiliarinformatica/Descargas/leon2.png)
