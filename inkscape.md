@@ -44,3 +44,11 @@ UN canal de transparenciacafa
 CMYK
 
 este sistema mezcla los tres colores primarios substractivos(cyan,magenta,amarillo) y un canal de negro  
+
+### como ajustar ell lenzo en inkscape 
+
+Archivo
+       propiedades del documento control+shifitd
+       
+       ajustar pagina acomtenido oseleccion
+        
