@@ -51,4 +51,3 @@ Archivo
        propiedades del documento control+shifitd
        
        ajustar pagina acomtenido oseleccion
-        
