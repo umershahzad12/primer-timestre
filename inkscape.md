@@ -47,6 +47,7 @@ este sistema mezcla los tres colores primarios substractivos(cyan,magenta,amaril
 
 ### como ajustar ell lenzo en inkscape 
 
+
 Archivo
        propiedades del documento control+shifitd
        
